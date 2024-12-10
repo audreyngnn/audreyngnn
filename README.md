@@ -27,8 +27,16 @@ Through rigorous coursework and real-world projects, I’ve developed the abilit
 
 ## 📚 Courses That Defined My Path ✿
 ### [Master of Business Analytics:](https://github.com/audreyngnn/Master-of-Business-Analytics)
-* COMP6010: Foundation of Computing
+#### Session 1
+* BUSA6004: Introduction to Inference, Modelling, and Forecasting
+* BUSA8000: Techniques in Business Analytics
+* COMP6010: Foundation of Computing 
 * COMP6200: Data Science
+#### Session 2
+* BUSA8030: Management of Data, Analytics, and Change
+* BUSA6430: Business Applications of Artificial Intelligence
+* BUSA8090: Data and Visualisation for Business
+* COMP6210: Big Data
 
 ### Bachelor of Commerce
 * Marketing Strategy
