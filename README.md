@@ -26,7 +26,7 @@ Through rigorous coursework and real-world projects, I’ve developed the abilit
 * **Sharpen Technical Skills:** Stay ahead with cutting-edge tools like Python, R, SQL, and Tableau to deliver expert-level solutions.
 
 ## 📚 Courses That Defined My Path ✿
-### Master of Business Analytics:
+### [Master of Business Analytics](https://github.com/audreyngnn/Master-of-Business-Analytics):
 * COMP6010: Foundation of Computing
 * COMP6200: Data Science
 
