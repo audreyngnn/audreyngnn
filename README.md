@@ -7,18 +7,7 @@
 Hello there! I’m Audrey Nguyen. Believe it or not, I wasn’t always a tech enthusiast. My journey into the world of analytics started with a curious leap—and it’s been a thrilling ride ever since. Combining my background in commerce with my newfound love for data, I’ve discovered how powerful numbers can be when paired with strategic thinking.
 
 ## 🚀 The Journey So Far
-From crunching numbers to crafting marketing strategies, my career has been shaped by two key milestones:
-
-### Bachelor of Commerce, University of Sydney
-Here, I built a strong foundation in accounting and marketing, learning the art of balancing precision with creativity. I gained insight into how businesses operate and how impactful strategies come to life.
-
-### Master of Business Analytics, Macquarie University
-Taking a deep dive into data, I mastered:
-
-* **Advanced Analytics:** Modeling, statistical analysis, and machine learning in big data contexts.
-* **Hands-on Tools:** Proficiency in Python, R, SQL, and Tableau, enabling me to turn raw data into actionable insights.
-* **Ethical Problem-Solving:** Balancing innovation with responsibility, ensuring my solutions align with sustainable and ethical practices.
-Through rigorous coursework and real-world projects, I’ve developed the ability to transform data into strategies that drive meaningful change.
+![Audrey's GitHub stats](https://github-readme-stats.vercel.app/api?username=audreyngnn&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
 
 ## 🎯 My Objectives
 * **Excel in Analytical Methods:** Dive into statistics, data mining, and predictive modeling to uncover impactful insights.
