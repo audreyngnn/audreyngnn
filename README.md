@@ -8,7 +8,7 @@ Hello there! I’m Audrey Nguyen. Believe it or not, I wasn’t always a tech en
 
 ## 🚀 The Journey So Far
 ![Audrey's GitHub stats](https://github-readme-stats.vercel.app/api?username=audreyngnn&show_icons=true&theme=radical) 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=audreyngnn&hide_progress=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=audreyngnn&layout=compact)
 
 ## 🎯 My Objectives
 * **Excel in Analytical Methods:** Dive into statistics, data mining, and predictive modeling to uncover impactful insights.
