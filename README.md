@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Audrey Nguyen ☘.☘︎ ݁˖ </h1>
+<h1 align="center">Hi 👋, I'm Audrey Nguyen .☘︎ ݁˖ </h1>
 <h3 align="center">A data-driven business strategist</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=audreyngnn&label=Profile%20views&color=0e75b6&style=flat" alt="audreyngnn" /> </p>
