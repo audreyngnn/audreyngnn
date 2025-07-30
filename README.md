@@ -7,7 +7,7 @@
 Hello there! I’m Audrey Nguyen. Believe it or not, I wasn’t always a tech enthusiast. My journey into the world of analytics started with a curious leap—and it’s been a thrilling ride ever since. Combining my background in commerce with my newfound love for data, I’ve discovered how powerful numbers can be when paired with strategic thinking.
 
 ## 🚀 The Journey So Far
-![Audrey's GitHub stats](https://github-readme-stats.vercel.app/api?username=audreyngnn&show_icons=true&theme=radical)
+![Audrey's GitHub stats](https://github-readme-stats.vercel.app/api?username=audreyngnn&show_icons=true&theme=radical) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=audreyngnn&layout=donut)](https://github.com/audreyngnn/github-readme-stats)
 
 ## 🎯 My Objectives
 * **Excel in Analytical Methods:** Dive into statistics, data mining, and predictive modeling to uncover impactful insights.
