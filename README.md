@@ -10,10 +10,40 @@
 Hello there! I’m Audrey Nguyen. Believe it or not, I wasn’t always a tech enthusiast. My journey into the world of analytics started with a curious leap, and it’s been a thrilling ride ever since. Combining my background in commerce with my newfound love for data, I’ve discovered how powerful numbers can be when paired with strategic thinking.
 
 ## 🚀 The Journey So Far
-![Audrey's GitHub stats](https://github-readme-stats.vercel.app/api?username=audreyngnn&show_icons=true&theme=radical)   
+
+### 🧑‍💻 Programming & Analytics
+
+<p>
+  <img src="https://img.shields.io/badge/PYTHON-306998?style=for-the-badge&logo=python&logoColor=white" alt="Python Badge"/>
+  <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" alt="R Badge"/>
+  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL Badge"/>
+  <img src="https://img.shields.io/badge/EXCEL-107C38?style=for-the-badge&logo=microsoftexcel&logoColor=white" alt="Excel Badge"/>
+</p>
+
+### 📊 Data Visualisation & BI
+
+<p>
+  <img src="https://img.shields.io/badge/POWER%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI Badge"/>
+  <img src="https://img.shields.io/badge/TABLEAU-E97627?style=for-the-badge&logo=tableau&logoColor=white" alt="Tableau Badge"/>
+</p>
+
+### 🗄️ Databases & Tools
+
+<p>
+  <img src="https://img.shields.io/badge/MYSQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL Badge"/>
+  <img src="https://img.shields.io/badge/SQL%20SERVER-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="SQL Server Badge"/>
+  <img src="https://img.shields.io/badge/POSTGRESQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL Badge"/>
+  <img src="https://img.shields.io/badge/MONGODB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB Badge"/>
+</p>
+
+### 🎨 UX/UI & Design
+
+<p>
+  <img src="https://img.shields.io/badge/FIGMA-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma Badge"/>
+</p>
+
 ***With a blend of creative flair, business acumen, and data expertise, I thrive on uncovering the hidden stories within numbers. Let’s turn data into decisions—and decisions into impact.*** ✨
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=audreyngnn&" alt="audreyngnn" /></p>
 
 ⚡ Fun fact **I can read your birth chart ^^**
 
