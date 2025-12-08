@@ -42,7 +42,7 @@ Hello there! I’m Audrey Nguyen. Believe it or not, I wasn’t always a tech en
   <img src="https://img.shields.io/badge/FIGMA-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma Badge"/>
 </p>
 
-***With a blend of creative flair, business acumen, and data expertise, I thrive on uncovering the hidden stories within numbers. Let’s turn data into decisions—and decisions into impact.*** ✨
+***With a blend of creative flair, business acumen, and data expertise, I thrive on uncovering the hidden stories within numbers. Let’s turn data into decisions, and decisions into impact.*** ✨
 
 
 ⚡ Fun fact **I can read your birth chart ^^**
